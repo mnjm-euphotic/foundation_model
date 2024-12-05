@@ -1,8 +1,10 @@
 dataset/
 ml-mobileclip/
+open_clip/
 text/
 .vscode/
 *.onnx
 *.npz
 mobileclip_s2_openclip.bin
 mobileclip_s2.pt
+*logs/
